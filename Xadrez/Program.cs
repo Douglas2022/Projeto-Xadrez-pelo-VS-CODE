@@ -1,5 +1,6 @@
 ﻿using System;
 using tabuleiro;
+using tela;
 
 namespace Xadrez
 {
@@ -9,8 +10,9 @@ namespace Xadrez
         {
             Tabuleiro tab = new Tabuleiro(8, 8);
 
-            Console.WriteLine(tab.linhas);
-            Console.WriteLine(tab.colunas);
+            Tela.imprimirTabuleiro(tab);
+
+            Console.ReadLine();
         }
     }
 }

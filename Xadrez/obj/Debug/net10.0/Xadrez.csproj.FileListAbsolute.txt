@@ -12,3 +12,4 @@ C:\Users\paulo\OneDrive\Área de Trabalho\Aula - C#\Xadrez\obj\Debug\net10.0\ref
 C:\Users\paulo\OneDrive\Área de Trabalho\Aula - C#\Xadrez\obj\Debug\net10.0\Xadrez.pdb
 C:\Users\paulo\OneDrive\Área de Trabalho\Aula - C#\Xadrez\obj\Debug\net10.0\Xadrez.genruntimeconfig.cache
 C:\Users\paulo\OneDrive\Área de Trabalho\Aula - C#\Xadrez\obj\Debug\net10.0\ref\Xadrez.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Aula - C#\Xadrez\obj\Debug\net10.0\Xadrez.sourcelink.json

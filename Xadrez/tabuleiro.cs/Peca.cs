@@ -1,5 +1,3 @@
-using xadrez.ta;
-using xadrez.tabuleiro;
 
 namespace tabuleiro
 {
